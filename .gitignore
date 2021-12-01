@@ -38,3 +38,4 @@ Makefile
 !/doc/svar.pdf
 !old_versions
 
+.DS_Store
